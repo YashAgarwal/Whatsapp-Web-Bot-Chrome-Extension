@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "WhatsApp Bot",
-  "description": "Something Cool",
+  "description": "A simple WhatsApp Bot",
   "version": "1",
-  "author": "Jake Prins",
+  "author": "Yash Agarwal",
   "browser_action": {
     "default_icon": "ripple-chat-bot-icon.png",
     "default_title": "Have a good day"
